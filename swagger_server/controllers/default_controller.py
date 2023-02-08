@@ -30,7 +30,10 @@ def delete_student(student_id):  # noqa: E501
 
     :rtype: None
     """
-    return delete(student_id)
+    response = delete(student_id)
+    if response:
+        return response
+    return 'Provided student id could not be found', 404
 
 
 def get_student_by_id(student_id):  # noqa: E501
@@ -43,4 +46,7 @@ def get_student_by_id(student_id):  # noqa: E501
 
     :rtype: Student
     """
-    return 'do some magic!'
+    response = get_by_id(student_id)
+    if response:
+        return response
+    return 'Provided student id could not be found', 404
