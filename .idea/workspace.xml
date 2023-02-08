@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb93b10-6cbc-4376-83fc-6d840bafcbac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-flask-server-generated.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-flask-server-generated.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" afterDir="false" />
-    </list>
+    <list default="true" id="0bb93b10-6cbc-4376-83fc-6d840bafcbac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +53,7 @@
       <updated>1675865647226</updated>
       <workItem from="1675865648625" duration="4360000" />
       <workItem from="1675880293176" duration="671000" />
-      <workItem from="1675880989540" duration="1259000" />
+      <workItem from="1675880989540" duration="1885000" />
     </task>
     <servers />
   </component>
